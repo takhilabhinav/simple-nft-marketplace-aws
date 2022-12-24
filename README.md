@@ -14,11 +14,11 @@ The front-end of the NFT application is deployed to Amazon S3 and can be accesse
 
 # Product Features
 
-1.Create a NFT Listing
-2.Transfer Asset to another user
-3.Buy Asset 
-4.Sell Asset
-5.Transfer ETH
+1. Create a NFT Listing
+2. Transfer Asset to another user
+3. Buy Asset 
+4. Sell Asset
+5. Transfer ETH
 
 # AWS Services Employed
 
@@ -67,6 +67,7 @@ In order for a marketplace to adjust a buyer and seller’s Ether balance, it ne
 3. Focus on building and strengthening their communities. This could involve the creation of forums, social media groups, or other spaces where users can interact with each other and discuss NFTs and other topics related to the app.
 
 # Outputs 
-[!alt text](https://github.com/takhilabhinav/simple-nft-marketplace-aws/blob/main/imgs/Screen%20Shot%202022-12-23%20at%209.54.31%20PM.png)
-[!alt text](https://github.com/takhilabhinav/simple-nft-marketplace-aws/blob/main/imgs/Screen%20Shot%202022-12-23%20at%209.54.48%20PM.png)
-[!alt text](https://github.com/takhilabhinav/simple-nft-marketplace-aws/blob/main/imgs/Screen%20Shot%202022-12-23%20at%209.55.04%20PM.png)
+
+![alt text](https://github.com/takhilabhinav/simple-nft-marketplace-aws/blob/main/imgs/Screen%20Shot%202022-12-23%20at%209.54.31%20PM.png)
+![alt text](https://github.com/takhilabhinav/simple-nft-marketplace-aws/blob/main/imgs/Screen%20Shot%202022-12-23%20at%209.54.48%20PM.png)
+![alt text](https://github.com/takhilabhinav/simple-nft-marketplace-aws/blob/main/imgs/Screen%20Shot%202022-12-23%20at%209.55.04%20PM.png)
